@@ -66,7 +66,7 @@ The platform helps tourists and heritage enthusiasts:
 | 📱 **Fully Responsive** | Optimized for mobile, tablet, and desktop viewports |
 | ⚡ **Vercel Analytics** | Built-in performance and visitor analytics |
 
----
+
 
 ## 📄 Pages & Modules
 
